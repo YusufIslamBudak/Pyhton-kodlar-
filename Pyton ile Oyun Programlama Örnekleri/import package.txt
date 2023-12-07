@@ -1,0 +1,12 @@
+python -m pip install freegames
+
+eğitim ve eğlence amaçlı, Apache2 lisanslı ücretsiz Python oyunları koleksiyonudur. Oyunlar basit Python koduyla yazılmıştır ve denemeler ve değişiklikler için tasarlanmıştır. Birkaç klasik atari oyununun basitleştirilmiş sürümleri dahildir.
+
+Kaynak: https://pypi.org/project/freegames/
+
+
+pip install gtts
+
+Konuşabilen bir programın nasıl oluşturulacağını hiç merak ettiniz mi? İlk bakışta gerçekten zor bir iş gibi görünebilir. Ancak, Google işin çoğunu bizim için yaptı ve artık metinden ses dosyaları oluşturmak için gerçekten kolay bir şekilde onların kitaplığını kullanabiliriz.
+
+Kaynak: https://levelup.gitconnected.com/make-your-python-program-speak-310766534fbf
